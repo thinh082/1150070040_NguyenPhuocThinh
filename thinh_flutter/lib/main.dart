@@ -43,7 +43,7 @@ class _MyHomePageState extends State<MyHomePage> {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: const [
                 Text(
-                  "Tên : Nguyễn Phước Thịnh",
+                  "Tên : Nguyễn Phước Thịnh - 11HTTT",
                   style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
                 ),
                 SizedBox(height: 8),
